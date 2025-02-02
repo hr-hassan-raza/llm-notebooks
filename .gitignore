@@ -1,2 +1,6 @@
 model
 Phi-3-mini-4k-instruct-fp16.gguf
+mlm
+tmp_trainer
+checkpoints
+.ipynb_checkpoints
