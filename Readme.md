@@ -1,0 +1,1 @@
+The repository contains my notebooks of NLP experiments using transformer-based models. Some notebooks require GPU to run. The notebooks are written in Python and use PyTorch and Hugging Face's Transformers library.
